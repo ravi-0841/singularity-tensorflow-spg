@@ -36,6 +36,7 @@ From: tensorflow/tensorflow:1.14.0-gpu-py3
   pip install pyyaml
   pip install joblib==0.11.0
   pip install llvmlite==0.31.0
+  pip install numba==0.44.1
   pip install librosa==0.7.0
   pip install pep8==1.7.0
   pip install nose==1.3.7
